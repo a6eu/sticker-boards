@@ -54,10 +54,10 @@
       "color": "blue",
       "fontSize": 15,
       "title": "Geocoder release checklist ",
-      "html": "<ul class=\"checks\"><li>Send this ENV_FILE to Vladislav</li><li>Deploy App</li></ul>",
+      "html": "<ul class=\"checks\"><li>Send this ENV_FILE to Vladislav</li><li data-done=\"true\">Deploy App</li></ul>",
       "pinned": false,
       "created": 1792665117824,
-      "updated": 1792667442270
+      "updated": 1792675519016
     },
     {
       "id": "zsd5yeyrm81f",
