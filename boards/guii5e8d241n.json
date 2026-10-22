@@ -9,16 +9,17 @@
       "seed": 588301581,
       "type": "rect",
       "fill": "solid",
-      "x": -891,
-      "y": -138,
+      "x": -4688,
+      "y": -604,
       "w": 1266.031713893676,
-      "h": 749.3656545140959
+      "h": 749.3656545140959,
+      "group": "kca70imudgir"
     },
     {
       "id": "nc00pd4e268n",
       "type": "note",
-      "x": -706,
-      "y": -17,
+      "x": -4503,
+      "y": -483,
       "w": 443,
       "h": 491,
       "color": "violet",
@@ -29,26 +30,28 @@
       "updated": 1792672993526,
       "fontSize": 11,
       "remind": 1792728000000,
-      "remindDone": false
+      "remindDone": false,
+      "group": "kca70imudgir"
     },
     {
       "id": "eta6nsym3oh7",
       "type": "photo",
       "src": "52acf664f7ca80404b8b.png",
       "ar": 1.7199,
-      "x": -51,
-      "y": -22,
+      "x": -3848,
+      "y": -488,
       "w": 277,
       "rot": 1.4,
       "caption": "Current Waterfall of individual pledges front",
       "created": 1792664406187,
-      "updated": 1792664425372
+      "updated": 1792664425372,
+      "group": "kca70imudgir"
     },
     {
       "id": "ypk4a21iixkw",
       "type": "note",
-      "x": -111,
-      "y": 290,
+      "x": -3908,
+      "y": -176,
       "w": 314,
       "h": 141,
       "color": "blue",
@@ -57,7 +60,8 @@
       "html": "<ul class=\"checks\"><li>Send this ENV_FILE to Vladislav</li><li data-done=\"true\">Deploy App</li></ul>",
       "pinned": false,
       "created": 1792665117824,
-      "updated": 1792675519016
+      "updated": 1792675519016,
+      "group": "kca70imudgir"
     },
     {
       "id": "zsd5yeyrm81f",
@@ -72,19 +76,21 @@
       "b": {
         "id": "nc00pd4e268n"
       },
-      "fill": "solid"
+      "fill": "solid",
+      "group": "kca70imudgir"
     },
     {
       "id": "w67jwk0z4iep",
       "type": "text",
-      "x": -494,
-      "y": -321,
+      "x": -4336,
+      "y": -712,
       "text": "FF-Mortgage Release Space",
       "color": "#DFE1E5",
       "size": 51.5,
       "font": "hand",
       "created": 1792672843057,
-      "updated": 1792672857848
+      "updated": 1792672857848,
+      "group": "kca70imudgir"
     }
   ]
 }
