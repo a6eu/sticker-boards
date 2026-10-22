@@ -1,1 +1,90 @@
-{"id":"guii5e8d241n","viewport":{"x":899.4840050432422,"y":413.17875315064407,"z":0.630207821321368,"fitted":true},"items":[{"id":"febsm95smt0h","stroke":"#DFE1E5","width":7,"rough":false,"seed":588301581,"type":"rect","fill":"solid","x":-891,"y":-138,"w":1266.031713893676,"h":749.3656545140959},{"id":"nc00pd4e268n","type":"note","x":-706,"y":-17,"w":443,"h":491,"color":"violet","title":"FF MORTGAGE ENV_FILE","html":"<blockquote>VITE_BASE_URL=https://business.bankffin.kz/api<br>VITE_BASE_WS_URL=wss://business.bankffin.kz/api<br>VITE_NOTARY_URL=https://business.bankffin.kz/notary<br>VITE_OZ_LIVENESS_SCRIPT_URL=https://oz-web-llconveyer.freedombank.kz/plugin_liveness.php<br>VITE_OZ_LIVENESS_TOKEN=<br>VITE_Q19_CALL_TOPIC=cbk_video_identification<br>VITE_SENTRY_DSN=https://8eaede526d1b25b252524b6023ce7bd2@sentry-ffin.freedombank.kz/54<br>VITE_API_URL=https://business.bankffin.kz<br>VITE_API_WS_URL=wss://business.bankffin.kz/api/ws/notifications/<br>VITE_APP_ROUTER_BASENAME=/api/estimator/<br>VITE_APP_OUTPUT_PATH=/api/estimator/<br>VITE_BASE_APP_URL=https://business.bankffin.kz<br>VITE_BASE_API_URL=https://business.bankffin.kz/api<br>VITE_RECAPTCHA_SITEKEY=6LfHYtoiAAAAAB2k_jMvev_znAxJAap60u6OBYp3<br>VITE_YANDEX_MAP_API=9bee3c6c-08d6-4169-9e69-fa0f8e26dbc0<br>VITE_YANDEX_GEOGUESSER_API=ace890d3-d4a8-4d13-a034-e6c1e5c157e9<br>VITE_CABINET_API_URL=https://individual-loans.bankffin.kz<br>VITE_CABINET_API_PREFIX=api/estimator/v1<br>VITE_2GIS_API_KEY=</blockquote>","pinned":false,"created":1792664335895,"updated":1792672993526,"fontSize":11,"remind":1792728000000,"remindDone":false},{"id":"eta6nsym3oh7","type":"photo","src":"52acf664f7ca80404b8b.png","ar":1.7199,"x":-51,"y":-22,"w":277,"rot":1.4,"caption":"Current Waterfall of individual pledges front","created":1792664406187,"updated":1792664425372},{"id":"ypk4a21iixkw","type":"note","x":-111,"y":290,"w":314,"h":141,"color":"blue","fontSize":15,"title":"Geocoder release checklist ","html":"<ul class=\"checks\"><li>Send this ENV_FILE to Vladislav</li><li>Deploy App</li></ul>","pinned":false,"created":1792665117824,"updated":1792667442270},{"id":"zsd5yeyrm81f","stroke":"#DFE1E5","width":1,"rough":false,"seed":322179004,"type":"arrow","a":{"id":"ypk4a21iixkw"},"b":{"id":"nc00pd4e268n"},"fill":"solid"},{"id":"w67jwk0z4iep","type":"text","x":-494,"y":-321,"text":"FF-Mortgage Release Space","color":"#DFE1E5","size":51.5,"font":"hand","created":1792672843057,"updated":1792672857848}]}
+{
+  "id": "guii5e8d241n",
+  "items": [
+    {
+      "id": "febsm95smt0h",
+      "stroke": "#DFE1E5",
+      "width": 7,
+      "rough": false,
+      "seed": 588301581,
+      "type": "rect",
+      "fill": "solid",
+      "x": -891,
+      "y": -138,
+      "w": 1266.031713893676,
+      "h": 749.3656545140959
+    },
+    {
+      "id": "nc00pd4e268n",
+      "type": "note",
+      "x": -706,
+      "y": -17,
+      "w": 443,
+      "h": 491,
+      "color": "violet",
+      "title": "FF MORTGAGE ENV_FILE",
+      "html": "<blockquote>VITE_BASE_URL=https://business.bankffin.kz/api<br>VITE_BASE_WS_URL=wss://business.bankffin.kz/api<br>VITE_NOTARY_URL=https://business.bankffin.kz/notary<br>VITE_OZ_LIVENESS_SCRIPT_URL=https://oz-web-llconveyer.freedombank.kz/plugin_liveness.php<br>VITE_OZ_LIVENESS_TOKEN=<br>VITE_Q19_CALL_TOPIC=cbk_video_identification<br>VITE_SENTRY_DSN=https://8eaede526d1b25b252524b6023ce7bd2@sentry-ffin.freedombank.kz/54<br>VITE_API_URL=https://business.bankffin.kz<br>VITE_API_WS_URL=wss://business.bankffin.kz/api/ws/notifications/<br>VITE_APP_ROUTER_BASENAME=/api/estimator/<br>VITE_APP_OUTPUT_PATH=/api/estimator/<br>VITE_BASE_APP_URL=https://business.bankffin.kz<br>VITE_BASE_API_URL=https://business.bankffin.kz/api<br>VITE_RECAPTCHA_SITEKEY=6LfHYtoiAAAAAB2k_jMvev_znAxJAap60u6OBYp3<br>VITE_YANDEX_MAP_API=9bee3c6c-08d6-4169-9e69-fa0f8e26dbc0<br>VITE_YANDEX_GEOGUESSER_API=ace890d3-d4a8-4d13-a034-e6c1e5c157e9<br>VITE_CABINET_API_URL=https://individual-loans.bankffin.kz<br>VITE_CABINET_API_PREFIX=api/estimator/v1<br>VITE_2GIS_API_KEY=</blockquote>",
+      "pinned": false,
+      "created": 1792664335895,
+      "updated": 1792672993526,
+      "fontSize": 11,
+      "remind": 1792728000000,
+      "remindDone": false
+    },
+    {
+      "id": "eta6nsym3oh7",
+      "type": "photo",
+      "src": "52acf664f7ca80404b8b.png",
+      "ar": 1.7199,
+      "x": -51,
+      "y": -22,
+      "w": 277,
+      "rot": 1.4,
+      "caption": "Current Waterfall of individual pledges front",
+      "created": 1792664406187,
+      "updated": 1792664425372
+    },
+    {
+      "id": "ypk4a21iixkw",
+      "type": "note",
+      "x": -111,
+      "y": 290,
+      "w": 314,
+      "h": 141,
+      "color": "blue",
+      "fontSize": 15,
+      "title": "Geocoder release checklist ",
+      "html": "<ul class=\"checks\"><li>Send this ENV_FILE to Vladislav</li><li>Deploy App</li></ul>",
+      "pinned": false,
+      "created": 1792665117824,
+      "updated": 1792667442270
+    },
+    {
+      "id": "zsd5yeyrm81f",
+      "stroke": "#DFE1E5",
+      "width": 1,
+      "rough": false,
+      "seed": 322179004,
+      "type": "arrow",
+      "a": {
+        "id": "ypk4a21iixkw"
+      },
+      "b": {
+        "id": "nc00pd4e268n"
+      },
+      "fill": "solid"
+    },
+    {
+      "id": "w67jwk0z4iep",
+      "type": "text",
+      "x": -494,
+      "y": -321,
+      "text": "FF-Mortgage Release Space",
+      "color": "#DFE1E5",
+      "size": 51.5,
+      "font": "hand",
+      "created": 1792672843057,
+      "updated": 1792672857848
+    }
+  ]
+}
