@@ -89,21 +89,6 @@
       "created": 1792672843057,
       "updated": 1792672857848,
       "group": "kca70imudgir"
-    },
-    {
-      "id": "h6f8ehn9avgc",
-      "type": "note",
-      "x": -3431,
-      "y": -390,
-      "w": 280,
-      "h": 230,
-      "color": "teal",
-      "fontSize": 15,
-      "title": "Oct 23 Check List",
-      "html": "",
-      "pinned": false,
-      "created": 1792733606076,
-      "updated": 1792733668251
     }
   ]
 }
