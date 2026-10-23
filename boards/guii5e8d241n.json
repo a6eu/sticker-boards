@@ -9,17 +9,17 @@
       "seed": 588301581,
       "type": "rect",
       "fill": "solid",
-      "x": -4815,
-      "y": -617,
+      "x": -4871,
+      "y": -650,
       "w": 1266.031713893676,
       "h": 749.3656545140959,
-      "group": "kca70imudgir"
+      "group": "qdgr7bo1d7po"
     },
     {
       "id": "nc00pd4e268n",
       "type": "note",
-      "x": -4630,
-      "y": -496,
+      "x": -4686,
+      "y": -529,
       "w": 443,
       "h": 491,
       "color": "teal",
@@ -29,27 +29,27 @@
       "created": 1792664335895,
       "updated": 1792672993526,
       "fontSize": 11,
-      "group": "kca70imudgir"
+      "group": "qdgr7bo1d7po"
     },
     {
       "id": "eta6nsym3oh7",
       "type": "photo",
       "src": "52acf664f7ca80404b8b.png",
       "ar": 1.7199,
-      "x": -3975,
-      "y": -501,
+      "x": -4031,
+      "y": -534,
       "w": 284,
       "rot": 1.4,
       "caption": "Current Waterfall of individual pledges front",
       "created": 1792664406187,
       "updated": 1792664425372,
-      "group": "kca70imudgir"
+      "group": "qdgr7bo1d7po"
     },
     {
       "id": "ypk4a21iixkw",
       "type": "note",
-      "x": -4035,
-      "y": -189,
+      "x": -4091,
+      "y": -222,
       "w": 314,
       "h": 141,
       "color": "blue",
@@ -58,8 +58,8 @@
       "html": "<ul class=\"checks\"><li data-done=\"false\">Send this ENV_FILE to Vladislav</li><li data-done=\"false\">Deploy App</li></ul>",
       "pinned": false,
       "created": 1792665117824,
-      "updated": 1792733590948,
-      "group": "kca70imudgir"
+      "updated": 1792750443483,
+      "group": "qdgr7bo1d7po"
     },
     {
       "id": "zsd5yeyrm81f",
@@ -75,20 +75,111 @@
         "id": "nc00pd4e268n"
       },
       "fill": "solid",
-      "group": "kca70imudgir"
+      "group": "qdgr7bo1d7po"
     },
     {
       "id": "w67jwk0z4iep",
       "type": "text",
-      "x": -4463,
-      "y": -725,
+      "x": -4519,
+      "y": -758,
       "text": "FF-Mortgage Release Space",
       "color": "#DFE1E5",
       "size": 51.5,
       "font": "hand",
       "created": 1792672843057,
       "updated": 1792672857848,
-      "group": "kca70imudgir"
+      "group": "qdgr7bo1d7po"
+    },
+    {
+      "id": "k6l8iswbch4j",
+      "stroke": "#5FB865",
+      "width": 7,
+      "rough": true,
+      "seed": 1097550053,
+      "type": "pen",
+      "points": [
+        [
+          -3931.7,
+          -474.2
+        ],
+        [
+          -3928.5,
+          -470.9
+        ],
+        [
+          -3925.8,
+          -465.7
+        ],
+        [
+          -3916.9,
+          -453.7
+        ],
+        [
+          -3907.3,
+          -439.4
+        ],
+        [
+          -3904.2,
+          -431.7
+        ],
+        [
+          -3897.9,
+          -415.8
+        ],
+        [
+          -3885.7,
+          -396.7
+        ],
+        [
+          -3880.5,
+          -388.2
+        ],
+        [
+          -3874.8,
+          -379.4
+        ],
+        [
+          -3873.6,
+          -377
+        ],
+        [
+          -3871.3,
+          -381.6
+        ],
+        [
+          -3862.5,
+          -395
+        ],
+        [
+          -3845.3,
+          -419.7
+        ],
+        [
+          -3829.7,
+          -435.3
+        ],
+        [
+          -3783.5,
+          -476.6
+        ],
+        [
+          -3715.3,
+          -537.6
+        ],
+        [
+          -3681.2,
+          -566.8
+        ],
+        [
+          -3612.9,
+          -620.4
+        ],
+        [
+          -3573.9,
+          -644.8
+        ]
+      ],
+      "group": "qdgr7bo1d7po"
     }
   ]
 }
