@@ -11,35 +11,50 @@
       "fill": "none",
       "x": -4263,
       "y": -1587,
-      "w": 686.2534801083616,
-      "h": 343.97436405800613
+      "w": 844.6531015596747,
+      "h": 423.92093849282014
     },
     {
       "id": "5bheyzbf2zl9",
       "type": "text",
-      "x": -4022,
-      "y": -1664,
-      "text": "Security",
+      "x": -3962,
+      "y": -1683,
+      "text": "Pass keys",
       "color": "#DFE1E5",
       "size": 56,
       "font": "hand",
       "created": 1793166579117,
-      "updated": 1793166589027
+      "updated": 1793179059449
     },
     {
-      "id": "2nvukbua3iaq",
+      "id": "1yfygi3eh71w",
       "type": "note",
-      "x": -4207,
-      "y": -1554,
-      "w": 227,
-      "h": 233,
+      "x": -4245,
+      "y": -1572,
+      "w": 240,
+      "h": 201,
       "color": "teal",
       "fontSize": 15,
-      "title": "",
-      "html": "<ul class=\"checks\"><li data-done=\"true\"><a href=\"https://gitlab.globerce.com/individuals-pledges/individual-pledges-frontend/-/merge_requests/914\">borrower</a></li><li data-done=\"true\">landing</li><li data-done=\"true\"><a href=\"https://gitlab.globerce.com/individuals-pledges/individual-pledges-spouse-frontend/-/merge_requests/178\">spouse</a></li></ul>",
+      "title": "Google password",
+      "html": "t.abeu@globerce.capital<br>&gt;pX-54:6T=d7Fd&gt;",
       "pinned": false,
-      "created": 1793166603362,
-      "updated": 1793167509600
+      "created": 1793178999284,
+      "updated": 1793179031525
+    },
+    {
+      "id": "1xrspwv2hxw4",
+      "type": "note",
+      "x": -3970,
+      "y": -1567,
+      "w": 184,
+      "h": 110,
+      "color": "teal",
+      "fontSize": 15,
+      "title": "Backup password",
+      "html": "hehe",
+      "pinned": false,
+      "created": 1793179034068,
+      "updated": 1793179043765
     }
   ]
 }
