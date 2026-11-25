@@ -55,6 +55,21 @@
       "pinned": false,
       "created": 1793179034068,
       "updated": 1793179043765
+    },
+    {
+      "id": "go1wpoap57ea",
+      "type": "note",
+      "x": -4828,
+      "y": -2223,
+      "w": 280,
+      "h": 230,
+      "color": "teal",
+      "fontSize": 15,
+      "title": "Optimization notes",
+      "html": "<ul class=\"checks\"><li data-done=\"true\">Apdex &gt; 0.90</li><li>Cross-auth page loading &lt;2.0s</li><li>...</li></ul>",
+      "pinned": false,
+      "created": 1795612203442,
+      "updated": 1795612263114
     }
   ]
 }
